@@ -22,7 +22,7 @@ int main() {
         case 10:
             cout <<"National teachers' and educators' day, 1st October"<<endl;
             break;
-        case 11:
+        case 12:
             cout <<"Constitution Day, 8th December";
         default:
             cout <<"In February, April, June, July, August and November there is no holidays. there are Ramadan Hayit and Kurban Hait but their dates change"<<endl;
